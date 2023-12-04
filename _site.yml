@@ -1,6 +1,6 @@
 name: "ayibongwinkosi blog"
 navbar:
-  title: "My Website"
+  title: "Interfaith Questions"
   left:
     - text: "Home"
       href: index.html
